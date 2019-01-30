@@ -1,0 +1,176 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LP-Officila.com" resolutions="1x" timestamp="1548833329583">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4243950995" ref="i-am-lp:pre-sale"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4114720977" ref="i-am-lp:pre-sale"/>
+    <file name="master_a-p_g_-maestra---copia.css" crc="460091441" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra---copia.css" crc="475406394" ref="index"/>
+    <file name="index.css" crc="3965871399" ref="index"/>
+    <file name="nomq_index.css" crc="3920658459" ref="index"/>
+    <file name="i-am-lp.css" crc="361369693" ref="i-am-lp"/>
+    <file name="nomq_i-am-lp.css" crc="204934238" ref="i-am-lp"/>
+    <file name="pre-sale.css" crc="252259009" ref="pre-sale"/>
+    <file name="nomq_pre-sale.css" crc="4272537211" ref="pre-sale"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pre-sale:i-am-lp"/>
+    <file name="museutils.js" crc="3803043152" ref="index:pre-sale:i-am-lp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pre-sale:i-am-lp"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:pre-sale:i-am-lp"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:pre-sale:i-am-lp"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:pre-sale:i-am-lp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:pre-sale"/>
+    <file name="webpro.js" crc="242022427" ref="index:pre-sale:i-am-lp"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:pre-sale:i-am-lp"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pre-sale:i-am-lp"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:pre-sale:i-am-lp"/>
+    <file name="require.js" crc="4157109226" ref="index:pre-sale:i-am-lp"/>
+  </folder>
+  <folder name="images">
+    <file name="lp.jpg" crc="4172309198" seo="true" ref="index:pre-sale:i-am-lp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:pre-sale:i-am-lp"/>
+    <file name="u946.png" crc="467091275" ref="index"/>
+    <file name="u946-r.png" crc="424023896" ref="index"/>
+    <file name="u946-a.png" crc="424023896" ref="index"/>
+    <file name="u951.png" crc="4236510396" ref="index"/>
+    <file name="u951-r.png" crc="26858905" ref="index"/>
+    <file name="u951-a.png" crc="26858905" ref="index"/>
+    <file name="u935.png" crc="294560281" ref="index"/>
+    <file name="u935-r.png" crc="3825342839" ref="index"/>
+    <file name="u935-a.png" crc="3825342839" ref="index"/>
+    <file name="facebook-logo-button.svg" crc="65082562" seo="true" ref="index:pre-sale:i-am-lp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="facebook-logo-button_poster_.png" crc="4235113470" ref="index"/>
+    <file name="twitter-logo-button.svg" crc="3936278739" seo="true" ref="index:pre-sale:i-am-lp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="twitter-logo-button_poster_.png" crc="78625940" ref="index"/>
+    <file name="instagram.svg" crc="378220237" seo="true" ref="index:pre-sale:i-am-lp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="4176627899" ref="index"/>
+    <file name="youtube.svg" crc="4277792654" seo="true" ref="index:pre-sale:i-am-lp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="youtube_poster_.png" crc="492792214" ref="index"/>
+    <file name="menu_icono.png" crc="3962600229" ref="index:pre-sale">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="x5.png" crc="131359711" ref="index:pre-sale">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="u985.png" crc="467091275" ref="index"/>
+    <file name="u985-r.png" crc="424023896" ref="index"/>
+    <file name="u985-a.png" crc="424023896" ref="index"/>
+    <file name="u978.png" crc="4236510396" ref="index"/>
+    <file name="u978-r.png" crc="26858905" ref="index"/>
+    <file name="u978-a.png" crc="26858905" ref="index"/>
+    <file name="u973.png" crc="294560281" ref="index"/>
+    <file name="u973-r.png" crc="3825342839" ref="index"/>
+    <file name="u973-a.png" crc="3825342839" ref="index"/>
+    <file name="u135.png" crc="467091275" ref="pre-sale:i-am-lp"/>
+    <file name="u135-r.png" crc="424023896" ref="pre-sale:i-am-lp"/>
+    <file name="u135-a.png" crc="424023896" ref="pre-sale:i-am-lp"/>
+    <file name="u145.png" crc="4236510396" ref="pre-sale:i-am-lp"/>
+    <file name="u145-r.png" crc="26858905" ref="pre-sale:i-am-lp"/>
+    <file name="u145-a.png" crc="26858905" ref="pre-sale:i-am-lp"/>
+    <file name="u181.png" crc="294560281" ref="pre-sale:i-am-lp"/>
+    <file name="u181-r.png" crc="3825342839" ref="pre-sale:i-am-lp"/>
+    <file name="u181-a.png" crc="3825342839" ref="pre-sale:i-am-lp"/>
+    <file name="u1161-44.png" crc="4100414204" ref="pre-sale"/>
+    <file name="u1165.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1165-r.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1165-a.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1206.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1206-r.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1206-a.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1212.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1212-r.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1212-a.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1218.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1218-r.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1218-a.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1224.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1224-r.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1224-a.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1230.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1230-r.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1230-a.png" crc="4287688004" ref="pre-sale"/>
+    <file name="lp ella-crop-u1314.jpg" crc="248068152" seo="true" ref="pre-sale">
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="fondo.jpg" crc="161742156" ref="pre-sale">
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="u1161-442.png" crc="4100414204" ref="pre-sale"/>
+    <file name="u11652.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1165-r2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1165-a2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u12062.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1206-r2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1206-a2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u12122.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1212-r2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1212-a2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u12182.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1218-r2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1218-a2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u12242.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1224-r2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1224-a2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u12302.png" crc="3887500468" ref="pre-sale"/>
+    <file name="u1230-r2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u1230-a2.png" crc="4287688004" ref="pre-sale"/>
+    <file name="u240.png" crc="467091275" ref="pre-sale:i-am-lp"/>
+    <file name="u240-r.png" crc="424023896" ref="pre-sale:i-am-lp"/>
+    <file name="u240-a.png" crc="424023896" ref="pre-sale:i-am-lp"/>
+    <file name="u249.png" crc="4236510396" ref="pre-sale:i-am-lp"/>
+    <file name="u249-r.png" crc="26858905" ref="pre-sale:i-am-lp"/>
+    <file name="u249-a.png" crc="26858905" ref="pre-sale:i-am-lp"/>
+    <file name="u232.png" crc="294560281" ref="pre-sale:i-am-lp"/>
+    <file name="u232-r.png" crc="3825342839" ref="pre-sale:i-am-lp"/>
+    <file name="u232-a.png" crc="3825342839" ref="pre-sale:i-am-lp"/>
+    <file name="lp ella178x261.jpg" crc="3970425523" seo="true" ref="pre-sale">
+      <caption webpage="pre-sale" alt=""/>
+    </file>
+    <file name="u1390-45.png" crc="337977879" ref="i-am-lp"/>
+    <file name="6pink.jpg" crc="4067763484" seo="true" ref="i-am-lp">
+      <caption webpage="i-am-lp" alt=""/>
+      <caption webpage="i-am-lp" alt=""/>
+    </file>
+    <file name="u1390-452.png" crc="270444240" ref="i-am-lp"/>
+  </folder>
+  <file name="index.html" crc="18482164" seo="true" mt="1548833296265" redirect="true"/>
+  <file name="pre-sale.html" crc="740820" seo="true" mt="1548798574828" redirect="true"/>
+  <file name="i-am-lp.html" crc="288302825" seo="true" mt="1548666627848" redirect="true"/>
+</manifest>
